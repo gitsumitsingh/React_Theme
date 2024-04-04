@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # React Assesment-5
--1. Add a Context to your RESUME BUILDER to change Dark Mode and Light Mode. You can also use a React Switch kind of library to make it more user friendly to switch.
+- 1. Add a Context to your RESUME BUILDER to change Dark Mode and Light Mode. You can also use a React Switch kind of library to make it more user friendly to switch.
 
 - [done] https://github.com/gitsumitsingh/React_Theme
